@@ -14,5 +14,5 @@ Feel free to test and give feedback.
 
 
 [TYPO3 Repository]: <https://typo3.org/extensions/repository/view/cs_seo>
-[Extension Manual]: <https://docs.typo3.org/typo3cms/extensions/cs_seo/>
+[Extension Manual]: <https://docs.typo3.org/p/clickstorm/cs_seo/4.2/en-us/>
 [clickstorm Blog]: <https://www.clickstorm.de/blog/>
